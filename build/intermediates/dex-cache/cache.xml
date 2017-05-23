@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/Desktop/android_project/Android-Shared-Prefrence/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9fd84143221a7e5ed661dfc5498bb88d0a60bfd5">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Shared-Prefrence/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_596974f42f2615bc5d19658e81055209028c21a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/Desktop/android_project/Android-Shared-Prefrence/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sanjeevchaurasia/Desktop/android_project/Android-Shared-Prefrence/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42c125c0ee279952d92cc8e3f26094daea69431c/classes.dex" />
+    </item>
+
+</items>
